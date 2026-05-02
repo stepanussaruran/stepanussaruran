@@ -6,7 +6,7 @@ I bridge the gap between raw data and human-centric solutions. Focused on buildi
 
 ---
 
-### 📊 My GitHub Journey
+### My GitHub Journey
 ![Stepanus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stepanussaruran&theme=dracula)
 ![Stepanus Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=stepanussaruran&show_icons=true&theme=algolia)
 ---
@@ -20,7 +20,7 @@ I bridge the gap between raw data and human-centric solutions. Focused on buildi
 
 ---
 
-### 🧪 Current Research & Interests
+### Current Research & Interests
 
 *   **The Morality of Logic:** Researching the intersection of data-driven decisions and ethics.
 *   **Graph Intelligence:** Optimizing path-based vs embedding-based systems for better data connectivity.
@@ -28,7 +28,7 @@ I bridge the gap between raw data and human-centric solutions. Focused on buildi
 
 ---
 
-### 🌙 Aesthetics & Vision
+### Aesthetics & Vision
 
 When the IDE is closed, I focus on **Cinematic Visuals**. 
 *   35mm Film Grain / Grunge Textures
@@ -37,7 +37,7 @@ When the IDE is closed, I focus on **Cinematic Visuals**.
 
 ---
 
-### 📈 Activity Graph
+### Activity Graph
 
 ![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stepanussaruran&theme=dracula)
 
