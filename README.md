@@ -82,8 +82,8 @@ Beyond engineering, I apply **human-centered design** principles to craft meanin
 
 Feel free to reach out — whether it's about data systems, design, or just a good conversation.
 
-[![](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your_link)
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_link)
+[![](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://youtu.be/QDia3e12czc)
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://youtu.be/QDia3e12czc)
 
 <br/>
 
