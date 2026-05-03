@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=stepanussaruran&color=blueviolet&style=flat-square)
-
 <div align="center">
 
 # ✦ Hello, World!
